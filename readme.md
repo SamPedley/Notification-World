@@ -2,8 +2,6 @@
 
 Basically your classic "Hello World" app with a little extra.
 
----
-
 ## What's the point
 
 The goal is to play with creating a highly available, scaleable, real time app.
@@ -13,8 +11,6 @@ The goal is to play with creating a highly available, scaleable, real time app.
 * [Kafka](https://kafka.apache.org/)
 * [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 * [Rx.js](http://reactivex.io/rxjs/)
-
----
 
 ## Workflow
 

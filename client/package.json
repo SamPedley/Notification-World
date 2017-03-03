@@ -1,0 +1,18 @@
+{
+  "name": "notification-world-client",
+  "version": "0.0.1",
+  "description": "The client code for Notification World.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamPedley/Notification-World.git"
+  },
+  "author": "Sam Pedley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamPedley/Notification-World/issues"
+  },
+  "homepage": "https://github.com/SamPedley/Notification-World#readme"
+}
